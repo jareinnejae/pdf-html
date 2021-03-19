@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import PDFConverter from './js/PDFConverter.js';
 import 'bootstrap/dist/css/bootstrap.min.css';
